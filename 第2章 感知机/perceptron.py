@@ -4,7 +4,6 @@ Yanjie Ze
 '''
 
 import numpy as np
-import matplotlib.pyplot as plt
 
 # 定义了感知机类,使用感知机学习算法的原始形式
 class perceptron:
@@ -40,6 +39,7 @@ class perceptron:
 if __name__ == '__main__':
 
     model = perceptron(dimension=2)
+    # 书中的数据
     x_train = np.array([[3,3],[4,3],[1,1]])
     y_train = np.array([1,1,-1])
 

@@ -1,9 +1,14 @@
 # StatisticalLearningMethod 统计学习方法代码实现
 ### Preface
 Implementation of Statistical Learning Method by Li Hang.</br>
-I try as hard as I can to implement these algorithms by myself, and I also read codes from some websites like **Github** and **CSDN** for reference.
+I try as hard as I can to implement these algorithms by myself, and I also read codes from some websites like **Github** and **CSDN** for reference，and thanks for this github project<https://github.com/Dod-o/Statistical-Learning-Method_Code> which helps me a lot.
 
 ### 第2章 感知机 
 时间：2020-8-17</br>
 难度：简单</br>
-过程：实现了使用原始算法的感知机类，代码思路和https://github.com/Dod-o/Statistical-Learning-Method_Code 中的代码思路类似，在拟合的时候没有使用随机遍历，而使用了简单的线性遍历，便于记录error的情况。
+过程：实现了使用原始算法的感知机类，在拟合的时候没有使用随机遍历，而使用了简单的线性遍历，便于记录error的情况。
+
+### 第3章 k近邻法
+时间：2020-8-18</br>
+难度：中等</br>
+过程：kdtree类与二叉树很相似，实现难度不大，算法3.3**最近邻搜索**略有些难度，需考虑参数传递和递归情况。

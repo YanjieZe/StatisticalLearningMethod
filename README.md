@@ -4,4 +4,4 @@ I try as hard as I can to implement these algorithms by myself, and I also read 
 
 ### 第2章 感知机 
 时间：2020-8-17</br>
-难度：一般
+难度：简单

@@ -16,4 +16,4 @@ I try as hard as I can to implement these algorithms by myself, and I also read 
 ### 第4章 朴素贝叶斯法
 时间：2020-8-19</br>
 难度：简单</br>
-过程：比较简单的生成模型，主要应用了概率论的知识，因此我写了一个基础的推导。
+过程：比较简单的生成模型，主要应用了概率论的知识，因此写了一个基础的公式推导。

@@ -1,7 +1,7 @@
 # StatisticalLearningMethod 统计学习方法
 ### Preface
 Implementation of Statistical Learning Method by Li Hang.</br>
-I try as hard as I can to implement these algorithms by myself, and I also read codes from some websites like **Github** and **CSDN** for reference. Thanks for [this github project](https://github.com/Dod-o/Statistical-Learning-Method_Code) which helps me a lot.
+I try to implement these algorithms by myself, and I also read codes from some websites like **Github** and **CSDN** for reference. Thanks for [this github project](https://github.com/Dod-o/Statistical-Learning-Method_Code) which helps me a lot.
 
 ### 第2章 感知机 
 时间：2020-8-17</br>

@@ -22,3 +22,8 @@ I try to implement these algorithms by myself, and I also read codes from some w
 时间：2020-8-20</br>
 难度：⭐⭐⭐</br>
 过程：实现了基础的C4.5算法，剪枝算法没有进行实现。
+
+### 第6章 逻辑斯谛回归与最大熵模型
+时间：2020-8-21</br>
+难度：⭐⭐⭐⭐</br>
+过程：阅读并基本了解。

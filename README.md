@@ -27,3 +27,9 @@ I try to implement these algorithms by myself, and I also read codes from some w
 时间：2020-8-21</br>
 难度：⭐⭐⭐⭐</br>
 过程：阅读并基本了解。
+
+### 第7章 支持向量机
+时间：2020-8-26</br>
+难度：⭐⭐⭐⭐⭐</br>
+过程：距离上次更新竟然有5天了。SVM这章内容的确很多，我结合李航的这本书和网上的大量教材视频看了很久，也算理解了大概。</br>
+这几天陷入迷茫中了，因此学习进度也很慢。**confused**
